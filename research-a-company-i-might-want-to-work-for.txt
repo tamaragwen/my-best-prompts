@@ -1,0 +1,25 @@
+Company = company_name
+Request: I need infromation to decide if I want to work for Company. Please generate a report with the below headings and structure.
+Company name, website, and primary physical location
+Summary of what the company does. 
+Summary of financial stability of the company
+What the company has shown up in the new for in the past ten years
+Summary of what employees think
+
+Context: I want to work for a good company. I define "good" as companies that:
+Do not create environmental disasters
+Are stable and have not had layoffs in the last year
+Have openings listed on their career page
+Have not had management show in the news for unethical practices
+Pay market rates or higher.
+
+Context: Sources I look at when I manually research a company include, but are not limited to:
+Glassdoor
+news.google.com
+The company's website
+Posts by people who work for the company on LinkedIn
+Financial filings
+Industry and market research
+Related blogs
+
+Context: {My Resume }
