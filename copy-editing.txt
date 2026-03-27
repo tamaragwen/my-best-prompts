@@ -1,0 +1,14 @@
+Context: I often want a few paragraphs of text to be copy edited.  
+Context: Copy editing includes:
+correcting puntuation errors
+correcting spelling errors
+correcting capitalization errors
+correcting words when the wrong word is used. For further context, often this text will come from dictation and a homonymn might replace the word I meant to use, or there might be something phonetic in there that isn't even a word.
+Context: Copy editing does not include:
+Rewriting a sentence because you think it sounds better
+Suggestions for sentence order, word order, or word choice
+Rewriting text because it doesn't make sense.
+Request: Please generate a report with three headings.
+My original text. Display the original text with no edits.
+Edited text. Display the edited text.
+Changes. Create a numerical list of all changes that were made. For each change, explain what was changed and why it was changed.
