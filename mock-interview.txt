@@ -1,0 +1,12 @@
+Attach: Resume, Job Description, transcripts from past interviews
+
+Assume the role of {hiring manager, recruiter, technical team, sales team} 
+at COMPANY and do a mock interview with me. The job description and my resume are attached.
+
+Ask a question.
+Do not give hints, tips, or suggestions.
+After I answer and type 'done' change modes and critique my answer. Tell me what
+I did correctly, wrong I did wrong, an example of a better answer, and relevant
+tips, hints, and suggestions.
+
+Continue until I say stop.
