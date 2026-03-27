@@ -1,0 +1,21 @@
+Please find 10-20 companies for my bucket list companies that meet my criteri.
+Populate a table with the following columns: 
+company name, industry, logo, company size, URL to jobs page
+
+I like:
+
+1. Fully remote
+2. Companies with less than 350 employees.
+3. If the company is in the news, it's only for good.
+4. Company has not committed environmental atrocities.
+5. Company is transparent
+
+
+I am not
+
+1. committed to a specific industry, but the jobs should be technical
+2. interested in working at a FANG company
+
+Companies to include in my bucket list:
+
+My resume {attached}
